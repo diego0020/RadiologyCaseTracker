@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RadiologyCaseTracker/precache-manifest.12b4301b238be8b2aa816a1a8d685e64.js"
+  "/RadiologyCaseTracker/precache-manifest.71a129d230935de3564755318834254b.js"
 );
 
 self.addEventListener('message', (event) => {
